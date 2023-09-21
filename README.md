@@ -18,8 +18,10 @@ The Work Progress Tracker is a mobile application developed using React Native a
 
 - Mark as Complete: Users can mark activities as complete, providing a visual indicator of progress.
 ## Screenshots
+![Screenshot 2023-09-21 184547](https://github.com/abhimanyulp/Work-Progress-Tracker/assets/119414340/075a2d96-a9ab-4369-82fa-adb90cf7e46c)
+![Screenshot 2023-09-21 184853](https://github.com/abhimanyulp/Work-Progress-Tracker/assets/119414340/b2a6cf4b-d7b7-48e5-b13c-ede8fdc8e360)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## Installation
