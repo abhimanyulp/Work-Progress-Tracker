@@ -1,1 +1,1 @@
-export const API_BASE_URL = 'http://localhost:8080'; // Replace with your server's URL
+export const API_BASE_URL = 'https://schedule-app-kkx3.onrender.com'; // Replace with your server's URL
